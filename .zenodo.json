@@ -1,0 +1,24 @@
+{
+  "upload_type": "dataset",
+  "title": "Data for: Precipitation and soil nutrients drive the variation in tree leaf traits across elevation in the Himalayas",
+  "creators": [
+    {"name": "Dyola, Nita"},
+    {"name": "Aryal, Sugam"},
+    {"name": "Sigdel, Shalik Ram"},
+    {"name": "Liang, Eryuan"},
+    {"name": "Rossi, Sergio"}
+  ],
+  "description": "Elevation-belt-level data used in all statistical analyses of the article 'Precipitation and soil nutrients drive the variation in tree leaf traits across elevation in the Himalayas' (Journal of Vegetation Science). The dataset contains community-weighted mean (CWM) leaf traits (leaf C, N and P concentrations, leaf dry matter content, specific leaf area and leaf thickness) of tree communities, together with climatic (mean annual temperature, total annual precipitation) and soil (total N, available P) variables, for 42 elevation belts (126 plots) along an 80–4200 m elevational gradient in the Kangchenjunga Landscape, eastern Nepal Himalayas. See README.md for variable descriptions, units and notes.",
+  "license": "cc-by-4.0",
+  "access_right": "open",
+  "keywords": [
+    "community-weighted mean",
+    "leaf functional traits",
+    "elevational gradient",
+    "Himalayas",
+    "precipitation",
+    "soil nutrients",
+    "tree communities",
+    "bioclimatic zones"
+  ]
+}
