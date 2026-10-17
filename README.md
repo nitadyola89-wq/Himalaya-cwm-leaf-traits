@@ -3,8 +3,8 @@
 **Authors:** Nita Dyola, Sugam Aryal, Shalik Ram Sigdel, Eryuan Liang, and Sergio Rossi
 **Corresponding author:** Nita Dyola; ndyola@etu.uqac.ca; nitadyola89@gmail.com
 **Journal:** Journal of Vegetation Science
-**Dataset DOI:** [Zenodo DOI, added after the first release]
-**Repository:** GitHub, archived on Zenodo
+**Dataset DOI:** https://doi.org/10.5281/zenodo.23441994
+**Repository:** https://github.com/nitadyola89-wq/Himalaya-cwm-leaf-traits (archived on Zenodo)
 **License:** Creative Commons Attribution 4.0 International (CC BY 4.0; see LICENSE)
 
 ## Description
@@ -48,7 +48,7 @@ Trees with a diameter at breast height ≥ 5 cm were surveyed in three 20 m × 2
 
 Licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0). You may share and adapt the data for any purpose, provided that appropriate credit is given by citing the article and this dataset:
 
-Dyola, N., Aryal, S., Sigdel, S.R., Liang, E. & Rossi, S. (2026) Data for: Precipitation and soil nutrients drive the variation in tree leaf traits across elevation in the Himalayas. Zenodo. [Zenodo DOI]
+Dyola, N., Aryal, S., Sigdel, S.R., Liang, E. & Rossi, S. (2026) Data for: Precipitation and soil nutrients drive the variation in tree leaf traits across elevation in the Himalayas. Zenodo. https://doi.org/10.5281/zenodo.23441994
 
 ## Code
 
