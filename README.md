@@ -36,13 +36,6 @@ Trees with a diameter at breast height ≥ 5 cm were surveyed in three 20 m × 2
 
 **Bioclimatic zone codes:** Tro = tropical (80–1000 m asl); Stro = sub-tropical (1000–2000 m); Wtem = warm-temperate (2000–2500 m); Ctem = cool-temperate (2500–3000 m); Salp = sub-alpine (3000–4000 m); Alp = alpine (4000–4200 m).
 
-## Notes
-
-1. **Elevation** is the midpoint of each 100-m belt. The lowest belt (midpoint 50 m) contains plots located at about 80 m asl.
-2. **Identical trait values in the two lowest belts (50 and 150 m):** all plots in these belts contained a single sampled tree species, so their CWMs equal that species' mean trait values.
-3. **Leaf thickness at the 3550 m belt:** leaf thickness was not measured in two of the three plots of this belt; these plots were recorded as 0 in the plot-level data, so the belt value (0.046 mm) is the mean of 0, 0 and 0.138 mm. Users may wish to treat this value as incomplete.
-4. Climatic and soil values are derived from gridded databases; plots within a belt often share the same values.
-5. There are no missing values in the file.
 
 ## Sharing and access
 
@@ -50,6 +43,4 @@ Licensed under the Creative Commons Attribution 4.0 International License (CC BY
 
 Dyola, N., Aryal, S., Sigdel, S.R., Liang, E. & Rossi, S. (2026) Data for: Precipitation and soil nutrients drive the variation in tree leaf traits across elevation in the Himalayas. Zenodo. https://doi.org/10.5281/zenodo.23441994
 
-## Code
 
-[Optional: link to analysis code, if shared]
